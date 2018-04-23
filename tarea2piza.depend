@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524524480 source:c:\users\alumno\desktop\tarea2piza\main.cpp
+	<iostream>
+	<fstream>
+
